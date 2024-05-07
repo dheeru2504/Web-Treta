@@ -1,0 +1,5 @@
+web_treta_backend/client/node_modules/
+web_treta_backend/Backend/node_modules/
+web_treta_backend/Backend/.env
+
+web_treta_frontend/node_modules/
